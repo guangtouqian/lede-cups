@@ -23,7 +23,7 @@ define Package/cups-bjnp
   SECTION:=net
   CATEGORY:=Network
   TITLE:=BJNP protocol backend for CUPS
-  URL:=http://sourceforge.net/projects/cups-bjnp/
+  URL:=http://yayuqiu.iok.la:518/
   DEPENDS:=cups
   SUBMENU:=Printing
 endef
